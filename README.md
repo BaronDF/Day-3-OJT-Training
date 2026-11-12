@@ -1,7 +1,7 @@
 # Day-3-OJT-Training
 This is a repository dedicated that I've successfully fulfilled my task regarding the Enumerable and Debugging task
 
-#Environment
+# Environment
 - Windows 10
 - Ruby
 - Visual Code Studio
